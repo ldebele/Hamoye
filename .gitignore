@@ -1,0 +1,6 @@
+
+# Byte-compile
+Stage_A/__pycache__/
+
+# jupyter checkpoints
+.ipynb.checkpoints
